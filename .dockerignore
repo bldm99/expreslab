@@ -1,2 +1,2 @@
 // .dockerignore:
-node _modules
+node_modules
